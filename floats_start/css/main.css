@@ -1,0 +1,34 @@
+/**
+* Layout Defaults
+**/
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+/**
+* Utility classes
+**/
+
+.container {
+  padding: 1rem;
+  max-width: 60rem;
+  margin: auto;
+}
+
+/**
+* Typography
+*/
+body {
+  font-family: sans-serif;
+  min-height: 100%;
+}
